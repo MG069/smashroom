@@ -680,6 +680,14 @@ strong {
   padding-top: 0;
 }
 
+/* macht alle h2 in der Kontakt-Sektion weiß */
+#section_5 h2 {
+  color: #fff;
+}
+html, body {
+  overflow-x: hidden;
+}
+
 .site-footer::after {
   content: "";
   background: linear-gradient(90deg, #FDBB2D 0%, #22C1C3 100%);
